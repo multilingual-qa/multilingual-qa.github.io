@@ -1,0 +1,60 @@
+{
+  "links": {
+    "evalai": "https://eval.ai/web/challenges/challenge-page/2738/overview",
+    "evalaiLeaderboard": "https://eval.ai/web/challenges/challenge-page/2738/leaderboard",
+    "repo": "https://github.com/AridHasan/blp27_task2",
+    "workshop": "https://blp-workshop.github.io/",
+    "slack": "https://join.slack.com/t/blpworkshop/shared_invite/zt-1ryu9eyac-7fevK9A4_Bt~qN_eCK349g",
+    "aclTemplate": "https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj",
+    "pubcheck": "https://github.com/acl-org/aclpubcheck"
+  },
+
+  "deadlineNote": "",
+
+  "news": [
+    { "date": "2026-10-15", "text": "Development phase opens on EvalAI. Training, dev and dev-test data are released." },
+    { "date": "2026-10-15", "text": "The mT5 baseline and a LoRA fine-tuning starter script are available on GitHub." }
+  ],
+
+  "dates": [
+    { "date": "2026-10-15", "label": "Oct 15, 2026", "title": "Registration opens on EvalAI", "detail": "Development phase begins", "key": true },
+    { "date": "2027-01-15", "label": "Jan 15, 2027", "title": "Evaluation phase begins", "detail": "Blind test set released", "key": true },
+    { "date": "2027-01-24", "label": "Jan 24, 2027", "title": "Registration closes", "detail": "", "key": false },
+    { "date": "2027-01-31", "label": "Jan 31, 2027", "title": "Evaluation phase ends", "detail": "Final submissions due", "key": true },
+    { "date": "2027-02-03", "label": "Feb 3, 2027", "title": "Rankings published", "detail": "", "key": false },
+    { "date": "2027-02-15", "label": "Feb 15, 2027", "title": "System papers due", "detail": "Up to 4 pages, ACL format", "key": true },
+    { "date": "2027-03-26", "label": "Mar 26, 2027", "title": "Notification of acceptance", "detail": "", "key": false },
+    { "date": "2027-04-16", "label": "Apr 16, 2027", "title": "Camera-ready due", "detail": "", "key": false },
+    { "date": "2027-06-05", "label": "Jun 1–5, 2027", "title": "Workshop at NAACL 2027", "detail": "", "key": true }
+  ],
+
+  "stages": [
+    { "until": "2026-10-15", "name": "Before launch" },
+    { "until": "2027-01-15", "name": "Development phase" },
+    { "until": "2027-01-31", "name": "Evaluation phase" },
+    { "until": "2027-02-15", "name": "Paper writing" },
+    { "until": "2027-04-16", "name": "Reviewing and camera-ready" },
+    { "until": "2027-06-05", "name": "Workshop ahead" }
+  ],
+
+  "leaderboard": {
+    "testResultsDate": "Feb 3, 2027"
+  },
+
+  "baseline": {
+    "model": "mT5-base",
+    "results": {
+  	"2A-bn": 0.5081, "2A-en": 0.5479, "2A-as": 0.5019, "2A-hi": 0.4719,
+  	"2B-bn": 0.5086, "2B-en": 0.5465, "2B-as": 0.5272, "2B-hi": 0.4699, "2B-all": 0.5130
+      }
+  },
+
+  "organizers": [
+    { "name": "Md Arid Hasan", "role": "PhD Student", "affiliation": "University of Toronto, Canada", "url": "https://aridhasan.github.io", "photo": "assets/img/organizers/arid.png" },
+    { "name": "Firoj Alam", "role": "Senior Scientist", "affiliation": "Qatar Computing Research Institute, Qatar", "url": "https://firojalam.one/", "photo": "assets/img/organizers/firoj.jpg" },
+    { "name": "Shammur Absar Chowdhury", "role": "Scientist", "affiliation": "Qatar Computing Research Institute, Qatar", "url": "https://shammur.one", "photo": "assets/img/organizers/shammur.jpg" },
+    { "name": "Sahinur Rahman Laskar", "role": "Assistant Professor", "affiliation": "UPES, India", "url": "", "photo": "assets/img/organizers/sahinur.jpg" },
+    { "name": "Nowshin Mahjabin", "role": "", "affiliation": "Bangladesh", "url": "", "photo": "assets/img/organizers/nowshin.jpg" },
+    { "name": "Syed Ishtiaque Ahmed", "role": "Associate Professor", "affiliation": "University of Toronto, Canada", "url": "https://ishtiaque.net", "photo": "assets/img/organizers/ishtiaque.jpg" }
+  ]
+}
