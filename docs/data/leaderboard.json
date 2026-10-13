@@ -1,5 +1,284 @@
 {
  "challenge": 2738,
- "phases": [],
- "updated": null
+ "phases": [
+  {
+   "key": "dev",
+   "name": "Development Phase",
+   "startDate": "2026-10-10T00:00:00Z",
+   "endDate": "2027-01-15T11:59:59Z",
+   "public": true,
+   "tracks": {
+    "2A-bn": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2A-en": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2A-as": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2A-hi": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2B-bn": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2B-en": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2B-as": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2B-hi": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2B-all": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    }
+   }
+  },
+  {
+   "key": "test",
+   "name": "Test Phase",
+   "startDate": "2027-01-15T12:00:00Z",
+   "endDate": "2027-02-01T11:59:59Z",
+   "public": false,
+   "tracks": {}
+  },
+  {
+   "key": "post",
+   "name": "Post-Evaluation Phase",
+   "startDate": "2027-02-06T00:00:00Z",
+   "endDate": "2028-12-31T23:59:59Z",
+   "public": true,
+   "tracks": {
+    "2A-bn": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2A-en": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2A-as": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2A-hi": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2B-bn": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2B-en": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2B-as": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2B-hi": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    },
+    "2B-all": {
+     "labels": [
+      "BERTScore-F1",
+      "BERTScore-P",
+      "BERTScore-R",
+      "ROUGE-1",
+      "ROUGE-2",
+      "ROUGE-L",
+      "METEOR",
+      "BLEU"
+     ],
+     "orderBy": "BERTScore-F1",
+     "entries": []
+    }
+   }
+  }
+ ],
+ "updated": "2026-10-13T02:31:47Z"
 }
