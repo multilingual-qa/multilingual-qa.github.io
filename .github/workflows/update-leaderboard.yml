@@ -23,7 +23,7 @@ jobs:
           python-version: "3.11"
 
       - name: Fetch leaderboards from EvalAI
-        run: python scripts/fetch_leaderboard.py --challenge 2738 --out docs/data/leaderboard.json
+        run: python scripts/fetch_leaderboard.py --challenge 6 --out docs/data/leaderboard.json
 
       - name: Commit if changed
         run: |
