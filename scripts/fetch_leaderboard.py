@@ -25,7 +25,7 @@ import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 
-API = "https://eval.ai/api"
+API = "https://eval.qcri.org/api"
 TRACK_ORDER = ["2A-bn", "2A-en", "2A-as", "2A-hi", "2B-bn", "2B-en", "2B-as", "2B-hi", "2B-all"]
 LANG_WORDS = {
     "bn": ["bangla", "bengali", "_bn", "-bn", " bn"],
@@ -197,7 +197,7 @@ def build(challenge_id):
 def main():
     global API
     ap = argparse.ArgumentParser()
-    ap.add_argument("--challenge", type=int, default=2738)
+    ap.add_argument("--challenge", type=int, default=6)
     ap.add_argument("--out", default=os.path.join("docs", "data", "leaderboard.json"))
     ap.add_argument("--api", default=API, help="EvalAI API base URL (for testing).")
     args = ap.parse_args()

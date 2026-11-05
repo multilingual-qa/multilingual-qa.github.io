@@ -1,7 +1,7 @@
 {
   "links": {
-    "evalai": "https://eval.ai/web/challenges/challenge-page/2738/overview",
-    "evalaiLeaderboard": "https://eval.ai/web/challenges/challenge-page/2738/leaderboard",
+    "evalai": "https://eval.qcri.org/web/challenges/challenge-page/6/overview",
+    "evalaiLeaderboard": "https://eval.qcri.org/web/challenges/challenge-page/6/leaderboard",
     "repo": "https://github.com/AridHasan/blp27_task2",
     "workshop": "https://blp-workshop.github.io/",
     "slack": "https://join.slack.com/t/blpworkshop/shared_invite/zt-1ryu9eyac-7fevK9A4_Bt~qN_eCK349g",
@@ -53,7 +53,7 @@
     { "name": "Md Arid Hasan", "role": "PhD Student", "affiliation": "University of Toronto, Canada", "url": "https://aridhasan.github.io", "photo": "assets/img/organizers/arid.png" },
     { "name": "Firoj Alam", "role": "Senior Scientist", "affiliation": "Qatar Computing Research Institute, Qatar", "url": "https://firojalam.one/", "photo": "assets/img/organizers/firoj.jpg" },
     { "name": "Shammur Absar Chowdhury", "role": "Scientist", "affiliation": "Qatar Computing Research Institute, Qatar", "url": "https://shammur.one", "photo": "assets/img/organizers/shammur.jpg" },
-    { "name": "Sahinur Rahman Laskar", "role": "Assistant Professor", "affiliation": "UPES, India", "url": "", "photo": "assets/img/organizers/sahinur.jpg" },
+    { "name": "Sahinur Rahman Laskar", "role": "Assistant Professor", "affiliation": "UPES, India", "url": "https://sahinurlaskar.github.io/", "photo": "assets/img/organizers/sahinur.jpg" },
     { "name": "Nowshin Mahjabin", "role": "", "affiliation": "Bangladesh", "url": "", "photo": "assets/img/organizers/nowshin.jpg" },
     { "name": "Syed Ishtiaque Ahmed", "role": "Associate Professor", "affiliation": "University of Toronto, Canada", "url": "https://ishtiaque.net", "photo": "assets/img/organizers/ishtiaque.jpg" }
   ]
