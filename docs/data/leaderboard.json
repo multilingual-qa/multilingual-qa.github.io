@@ -1,5 +1,5 @@
 {
- "challenge": 2738,
+ "challenge": 6,
  "phases": [
   {
    "key": "dev",
@@ -20,7 +20,42 @@
       "BLEU"
      ],
      "orderBy": "BERTScore-F1",
-     "entries": []
+     "entries": [
+      {
+       "team": "Nowshin",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-04T07:20:32.164042Z",
+       "scores": {
+        "BERTScore-F1": 0.508067,
+        "BERTScore-P": 0.583287,
+        "BERTScore-R": 0.458532,
+        "ROUGE-1": 0.19613,
+        "ROUGE-2": 0.046605,
+        "ROUGE-L": 0.173784,
+        "METEOR": 0.104588,
+        "BLEU": 0.009665
+       },
+       "rank": 1
+      },
+      {
+       "team": "Host_96844_Team",
+       "method": "Baseline",
+       "baseline": true,
+       "submittedAt": "2026-11-04T00:34:21.492001Z",
+       "scores": {
+        "BERTScore-F1": 0.508067,
+        "BERTScore-P": 0.583287,
+        "BERTScore-R": 0.458532,
+        "ROUGE-1": 0.19613,
+        "ROUGE-2": 0.046605,
+        "ROUGE-L": 0.173784,
+        "METEOR": 0.104588,
+        "BLEU": 0.009665
+       },
+       "rank": null
+      }
+     ]
     },
     "2A-en": {
      "labels": [
@@ -34,7 +69,42 @@
       "BLEU"
      ],
      "orderBy": "BERTScore-F1",
-     "entries": []
+     "entries": [
+      {
+       "team": "Nowshin",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-04T07:20:32.164042Z",
+       "scores": {
+        "BERTScore-F1": 0.547857,
+        "BERTScore-P": 0.590774,
+        "BERTScore-R": 0.515268,
+        "ROUGE-1": 0.289556,
+        "ROUGE-2": 0.077315,
+        "ROUGE-L": 0.22135,
+        "METEOR": 0.169745,
+        "BLEU": 0.044295
+       },
+       "rank": 1
+      },
+      {
+       "team": "Host_96844_Team",
+       "method": "Baseline",
+       "baseline": true,
+       "submittedAt": "2026-11-04T00:34:21.492001Z",
+       "scores": {
+        "BERTScore-F1": 0.547857,
+        "BERTScore-P": 0.590774,
+        "BERTScore-R": 0.515268,
+        "ROUGE-1": 0.289556,
+        "ROUGE-2": 0.077315,
+        "ROUGE-L": 0.22135,
+        "METEOR": 0.169745,
+        "BLEU": 0.044295
+       },
+       "rank": null
+      }
+     ]
     },
     "2A-as": {
      "labels": [
@@ -48,7 +118,42 @@
       "BLEU"
      ],
      "orderBy": "BERTScore-F1",
-     "entries": []
+     "entries": [
+      {
+       "team": "Nowshin",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-04T07:20:32.164042Z",
+       "scores": {
+        "BERTScore-F1": 0.501922,
+        "BERTScore-P": 0.573642,
+        "BERTScore-R": 0.454735,
+        "ROUGE-1": 0.238778,
+        "ROUGE-2": 0.062072,
+        "ROUGE-L": 0.220634,
+        "METEOR": 0.139629,
+        "BLEU": 0.007339
+       },
+       "rank": 1
+      },
+      {
+       "team": "Host_96844_Team",
+       "method": "Baseline",
+       "baseline": true,
+       "submittedAt": "2026-11-04T00:34:21.492001Z",
+       "scores": {
+        "BERTScore-F1": 0.501922,
+        "BERTScore-P": 0.573642,
+        "BERTScore-R": 0.454735,
+        "ROUGE-1": 0.238778,
+        "ROUGE-2": 0.062072,
+        "ROUGE-L": 0.220634,
+        "METEOR": 0.139629,
+        "BLEU": 0.007339
+       },
+       "rank": null
+      }
+     ]
     },
     "2A-hi": {
      "labels": [
@@ -62,7 +167,42 @@
       "BLEU"
      ],
      "orderBy": "BERTScore-F1",
-     "entries": []
+     "entries": [
+      {
+       "team": "Nowshin",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-04T07:20:32.164042Z",
+       "scores": {
+        "BERTScore-F1": 0.471886,
+        "BERTScore-P": 0.49594,
+        "BERTScore-R": 0.461414,
+        "ROUGE-1": 0.186191,
+        "ROUGE-2": 0.050768,
+        "ROUGE-L": 0.15648,
+        "METEOR": 0.120436,
+        "BLEU": 0.02203
+       },
+       "rank": 1
+      },
+      {
+       "team": "Host_96844_Team",
+       "method": "Baseline",
+       "baseline": true,
+       "submittedAt": "2026-11-04T00:34:21.492001Z",
+       "scores": {
+        "BERTScore-F1": 0.471886,
+        "BERTScore-P": 0.49594,
+        "BERTScore-R": 0.461414,
+        "ROUGE-1": 0.186191,
+        "ROUGE-2": 0.050768,
+        "ROUGE-L": 0.15648,
+        "METEOR": 0.120436,
+        "BLEU": 0.02203
+       },
+       "rank": null
+      }
+     ]
     },
     "2B-bn": {
      "labels": [
@@ -76,7 +216,42 @@
       "BLEU"
      ],
      "orderBy": "BERTScore-F1",
-     "entries": []
+     "entries": [
+      {
+       "team": "Nowshin",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-04T07:20:32.164042Z",
+       "scores": {
+        "BERTScore-F1": 0.50864,
+        "BERTScore-P": 0.582093,
+        "BERTScore-R": 0.460087,
+        "ROUGE-1": 0.198332,
+        "ROUGE-2": 0.047523,
+        "ROUGE-L": 0.175081,
+        "METEOR": 0.107637,
+        "BLEU": 0.009676
+       },
+       "rank": 1
+      },
+      {
+       "team": "Host_96844_Team",
+       "method": "Baseline",
+       "baseline": true,
+       "submittedAt": "2026-11-04T00:34:21.492001Z",
+       "scores": {
+        "BERTScore-F1": 0.50864,
+        "BERTScore-P": 0.582093,
+        "BERTScore-R": 0.460087,
+        "ROUGE-1": 0.198332,
+        "ROUGE-2": 0.047523,
+        "ROUGE-L": 0.175081,
+        "METEOR": 0.107637,
+        "BLEU": 0.009676
+       },
+       "rank": null
+      }
+     ]
     },
     "2B-en": {
      "labels": [
@@ -90,7 +265,42 @@
       "BLEU"
      ],
      "orderBy": "BERTScore-F1",
-     "entries": []
+     "entries": [
+      {
+       "team": "Nowshin",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-04T07:20:32.164042Z",
+       "scores": {
+        "BERTScore-F1": 0.546485,
+        "BERTScore-P": 0.588233,
+        "BERTScore-R": 0.515085,
+        "ROUGE-1": 0.28809,
+        "ROUGE-2": 0.076029,
+        "ROUGE-L": 0.219425,
+        "METEOR": 0.169929,
+        "BLEU": 0.044118
+       },
+       "rank": 1
+      },
+      {
+       "team": "Host_96844_Team",
+       "method": "Baseline",
+       "baseline": true,
+       "submittedAt": "2026-11-04T00:34:21.492001Z",
+       "scores": {
+        "BERTScore-F1": 0.546485,
+        "BERTScore-P": 0.588233,
+        "BERTScore-R": 0.515085,
+        "ROUGE-1": 0.28809,
+        "ROUGE-2": 0.076029,
+        "ROUGE-L": 0.219425,
+        "METEOR": 0.169929,
+        "BLEU": 0.044118
+       },
+       "rank": null
+      }
+     ]
     },
     "2B-as": {
      "labels": [
@@ -104,7 +314,42 @@
       "BLEU"
      ],
      "orderBy": "BERTScore-F1",
-     "entries": []
+     "entries": [
+      {
+       "team": "Nowshin",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-04T07:20:32.164042Z",
+       "scores": {
+        "BERTScore-F1": 0.527179,
+        "BERTScore-P": 0.589662,
+        "BERTScore-R": 0.485833,
+        "ROUGE-1": 0.250852,
+        "ROUGE-2": 0.06762,
+        "ROUGE-L": 0.234324,
+        "METEOR": 0.152391,
+        "BLEU": 0.014153
+       },
+       "rank": 1
+      },
+      {
+       "team": "Host_96844_Team",
+       "method": "Baseline",
+       "baseline": true,
+       "submittedAt": "2026-11-04T00:34:21.492001Z",
+       "scores": {
+        "BERTScore-F1": 0.527179,
+        "BERTScore-P": 0.589662,
+        "BERTScore-R": 0.485833,
+        "ROUGE-1": 0.250852,
+        "ROUGE-2": 0.06762,
+        "ROUGE-L": 0.234324,
+        "METEOR": 0.152391,
+        "BLEU": 0.014153
+       },
+       "rank": null
+      }
+     ]
     },
     "2B-hi": {
      "labels": [
@@ -118,7 +363,42 @@
       "BLEU"
      ],
      "orderBy": "BERTScore-F1",
-     "entries": []
+     "entries": [
+      {
+       "team": "Nowshin",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-04T07:20:32.164042Z",
+       "scores": {
+        "BERTScore-F1": 0.469889,
+        "BERTScore-P": 0.493935,
+        "BERTScore-R": 0.459726,
+        "ROUGE-1": 0.183505,
+        "ROUGE-2": 0.050219,
+        "ROUGE-L": 0.154847,
+        "METEOR": 0.118938,
+        "BLEU": 0.021763
+       },
+       "rank": 1
+      },
+      {
+       "team": "Host_96844_Team",
+       "method": "Baseline",
+       "baseline": true,
+       "submittedAt": "2026-11-04T00:34:21.492001Z",
+       "scores": {
+        "BERTScore-F1": 0.469889,
+        "BERTScore-P": 0.493935,
+        "BERTScore-R": 0.459726,
+        "ROUGE-1": 0.183505,
+        "ROUGE-2": 0.050219,
+        "ROUGE-L": 0.154847,
+        "METEOR": 0.118938,
+        "BLEU": 0.021763
+       },
+       "rank": null
+      }
+     ]
     },
     "2B-all": {
      "labels": [
@@ -132,153 +412,45 @@
       "BLEU"
      ],
      "orderBy": "BERTScore-F1",
-     "entries": []
-    }
-   }
-  },
-  {
-   "key": "test",
-   "name": "Test Phase",
-   "startDate": "2027-01-15T12:00:00Z",
-   "endDate": "2027-02-01T11:59:59Z",
-   "public": false,
-   "tracks": {}
-  },
-  {
-   "key": "post",
-   "name": "Post-Evaluation Phase",
-   "startDate": "2027-02-06T00:00:00Z",
-   "endDate": "2028-12-31T23:59:59Z",
-   "public": true,
-   "tracks": {
-    "2A-bn": {
-     "labels": [
-      "BERTScore-F1",
-      "BERTScore-P",
-      "BERTScore-R",
-      "ROUGE-1",
-      "ROUGE-2",
-      "ROUGE-L",
-      "METEOR",
-      "BLEU"
-     ],
-     "orderBy": "BERTScore-F1",
-     "entries": []
-    },
-    "2A-en": {
-     "labels": [
-      "BERTScore-F1",
-      "BERTScore-P",
-      "BERTScore-R",
-      "ROUGE-1",
-      "ROUGE-2",
-      "ROUGE-L",
-      "METEOR",
-      "BLEU"
-     ],
-     "orderBy": "BERTScore-F1",
-     "entries": []
-    },
-    "2A-as": {
-     "labels": [
-      "BERTScore-F1",
-      "BERTScore-P",
-      "BERTScore-R",
-      "ROUGE-1",
-      "ROUGE-2",
-      "ROUGE-L",
-      "METEOR",
-      "BLEU"
-     ],
-     "orderBy": "BERTScore-F1",
-     "entries": []
-    },
-    "2A-hi": {
-     "labels": [
-      "BERTScore-F1",
-      "BERTScore-P",
-      "BERTScore-R",
-      "ROUGE-1",
-      "ROUGE-2",
-      "ROUGE-L",
-      "METEOR",
-      "BLEU"
-     ],
-     "orderBy": "BERTScore-F1",
-     "entries": []
-    },
-    "2B-bn": {
-     "labels": [
-      "BERTScore-F1",
-      "BERTScore-P",
-      "BERTScore-R",
-      "ROUGE-1",
-      "ROUGE-2",
-      "ROUGE-L",
-      "METEOR",
-      "BLEU"
-     ],
-     "orderBy": "BERTScore-F1",
-     "entries": []
-    },
-    "2B-en": {
-     "labels": [
-      "BERTScore-F1",
-      "BERTScore-P",
-      "BERTScore-R",
-      "ROUGE-1",
-      "ROUGE-2",
-      "ROUGE-L",
-      "METEOR",
-      "BLEU"
-     ],
-     "orderBy": "BERTScore-F1",
-     "entries": []
-    },
-    "2B-as": {
-     "labels": [
-      "BERTScore-F1",
-      "BERTScore-P",
-      "BERTScore-R",
-      "ROUGE-1",
-      "ROUGE-2",
-      "ROUGE-L",
-      "METEOR",
-      "BLEU"
-     ],
-     "orderBy": "BERTScore-F1",
-     "entries": []
-    },
-    "2B-hi": {
-     "labels": [
-      "BERTScore-F1",
-      "BERTScore-P",
-      "BERTScore-R",
-      "ROUGE-1",
-      "ROUGE-2",
-      "ROUGE-L",
-      "METEOR",
-      "BLEU"
-     ],
-     "orderBy": "BERTScore-F1",
-     "entries": []
-    },
-    "2B-all": {
-     "labels": [
-      "BERTScore-F1",
-      "BERTScore-P",
-      "BERTScore-R",
-      "ROUGE-1",
-      "ROUGE-2",
-      "ROUGE-L",
-      "METEOR",
-      "BLEU"
-     ],
-     "orderBy": "BERTScore-F1",
-     "entries": []
+     "entries": [
+      {
+       "team": "Nowshin",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-04T07:20:32.164042Z",
+       "scores": {
+        "BERTScore-F1": 0.513048,
+        "BERTScore-P": 0.56348,
+        "BERTScore-R": 0.480183,
+        "ROUGE-1": 0.230194,
+        "ROUGE-2": 0.060348,
+        "ROUGE-L": 0.19592,
+        "METEOR": 0.137224,
+        "BLEU": 0.022428
+       },
+       "rank": 1
+      },
+      {
+       "team": "Host_96844_Team",
+       "method": "Baseline",
+       "baseline": true,
+       "submittedAt": "2026-11-04T00:34:21.492001Z",
+       "scores": {
+        "BERTScore-F1": 0.513048,
+        "BERTScore-P": 0.56348,
+        "BERTScore-R": 0.480183,
+        "ROUGE-1": 0.230194,
+        "ROUGE-2": 0.060348,
+        "ROUGE-L": 0.19592,
+        "METEOR": 0.137224,
+        "BLEU": 0.022428
+       },
+       "rank": null
+      }
+     ]
     }
    }
   }
  ],
- "updated": "2026-10-13T10:33:35Z"
+ "updated": "2026-11-05T05:12:10Z"
 }
