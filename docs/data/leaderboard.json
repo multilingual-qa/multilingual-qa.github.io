@@ -59,16 +59,16 @@
        "team": "UpsideDown",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-10T07:58:07.619340Z",
+       "submittedAt": "2026-11-10T14:38:56.116938Z",
        "scores": {
-        "BERTScore-F1": 0.491028,
-        "BERTScore-P": 0.548409,
-        "BERTScore-R": 0.454104,
-        "ROUGE-1": 0.173614,
-        "ROUGE-2": 0.035235,
-        "ROUGE-L": 0.152338,
-        "METEOR": 0.095128,
-        "BLEU": 0.00932
+        "BERTScore-F1": 0.496257,
+        "BERTScore-P": 0.543229,
+        "BERTScore-R": 0.46659,
+        "ROUGE-1": 0.183025,
+        "ROUGE-2": 0.037241,
+        "ROUGE-L": 0.155801,
+        "METEOR": 0.10459,
+        "BLEU": 0.01191
        },
        "rank": 2
       }
@@ -235,6 +235,23 @@
      "orderBy": "BERTScore-F1",
      "entries": [
       {
+       "team": "Prometheus",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-10T16:02:55.260234Z",
+       "scores": {
+        "BERTScore-F1": 0.55667,
+        "BERTScore-P": 0.579279,
+        "BERTScore-R": 0.550075,
+        "ROUGE-1": 0.29115,
+        "ROUGE-2": 0.173164,
+        "ROUGE-L": 0.263113,
+        "METEOR": 0.23682,
+        "BLEU": 0.182275
+       },
+       "rank": 1
+      },
+      {
        "team": "Nowshin",
        "method": "",
        "baseline": false,
@@ -249,7 +266,7 @@
         "METEOR": 0.107637,
         "BLEU": 0.009676
        },
-       "rank": 1
+       "rank": 2
       },
       {
        "team": "BLP27_Organizers",
@@ -284,6 +301,23 @@
      "orderBy": "BERTScore-F1",
      "entries": [
       {
+       "team": "Prometheus",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-10T16:02:55.260234Z",
+       "scores": {
+        "BERTScore-F1": 0.602664,
+        "BERTScore-P": 0.614377,
+        "BERTScore-R": 0.598202,
+        "ROUGE-1": 0.384753,
+        "ROUGE-2": 0.217949,
+        "ROUGE-L": 0.324418,
+        "METEOR": 0.313307,
+        "BLEU": 0.232136
+       },
+       "rank": 1
+      },
+      {
        "team": "Nowshin",
        "method": "",
        "baseline": false,
@@ -298,7 +332,7 @@
         "METEOR": 0.169929,
         "BLEU": 0.044118
        },
-       "rank": 1
+       "rank": 2
       },
       {
        "team": "BLP27_Organizers",
@@ -365,6 +399,23 @@
         "BLEU": 0.014153
        },
        "rank": null
+      },
+      {
+       "team": "Prometheus",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-10T16:02:55.260234Z",
+       "scores": {
+        "BERTScore-F1": 0.474242,
+        "BERTScore-P": 0.477644,
+        "BERTScore-R": 0.479115,
+        "ROUGE-1": 0.169065,
+        "ROUGE-2": 0.02658,
+        "ROUGE-L": 0.148648,
+        "METEOR": 0.1128,
+        "BLEU": 0.019455
+       },
+       "rank": 2
       }
      ]
     },
@@ -382,6 +433,23 @@
      "orderBy": "BERTScore-F1",
      "entries": [
       {
+       "team": "Prometheus",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-10T16:02:55.260234Z",
+       "scores": {
+        "BERTScore-F1": 0.488745,
+        "BERTScore-P": 0.479153,
+        "BERTScore-R": 0.517057,
+        "ROUGE-1": 0.231243,
+        "ROUGE-2": 0.100809,
+        "ROUGE-L": 0.196047,
+        "METEOR": 0.195432,
+        "BLEU": 0.107112
+       },
+       "rank": 1
+      },
+      {
        "team": "Nowshin",
        "method": "",
        "baseline": false,
@@ -396,7 +464,7 @@
         "METEOR": 0.118938,
         "BLEU": 0.021763
        },
-       "rank": 1
+       "rank": 2
       },
       {
        "team": "BLP27_Organizers",
@@ -431,6 +499,23 @@
      "orderBy": "BERTScore-F1",
      "entries": [
       {
+       "team": "Prometheus",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-10T16:02:55.260234Z",
+       "scores": {
+        "BERTScore-F1": 0.53058,
+        "BERTScore-P": 0.537613,
+        "BERTScore-R": 0.536112,
+        "ROUGE-1": 0.269053,
+        "ROUGE-2": 0.129625,
+        "ROUGE-L": 0.233057,
+        "METEOR": 0.21459,
+        "BLEU": 0.135245
+       },
+       "rank": 1
+      },
+      {
        "team": "Nowshin",
        "method": "",
        "baseline": false,
@@ -445,7 +530,7 @@
         "METEOR": 0.137224,
         "BLEU": 0.022428
        },
-       "rank": 1
+       "rank": 2
       },
       {
        "team": "BLP27_Organizers",
@@ -469,5 +554,5 @@
    }
   }
  ],
- "updated": "2026-11-10T09:47:23Z"
+ "updated": "2026-11-10T17:48:38Z"
 }
