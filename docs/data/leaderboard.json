@@ -54,6 +54,23 @@
         "BLEU": 0.009665
        },
        "rank": null
+      },
+      {
+       "team": "UpsideDown",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-10T07:58:07.619340Z",
+       "scores": {
+        "BERTScore-F1": 0.491028,
+        "BERTScore-P": 0.548409,
+        "BERTScore-R": 0.454104,
+        "ROUGE-1": 0.173614,
+        "ROUGE-2": 0.035235,
+        "ROUGE-L": 0.152338,
+        "METEOR": 0.095128,
+        "BLEU": 0.00932
+       },
+       "rank": 2
       }
      ]
     },
@@ -452,5 +469,5 @@
    }
   }
  ],
- "updated": "2026-11-05T10:52:43Z"
+ "updated": "2026-11-10T09:47:23Z"
 }
