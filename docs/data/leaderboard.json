@@ -25,16 +25,16 @@
        "team": "Open Weight Human",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-11T08:48:52.207218Z",
+       "submittedAt": "2026-11-12T11:22:15.920191Z",
        "scores": {
-        "BERTScore-F1": 0.537712,
-        "BERTScore-P": 0.569621,
-        "BERTScore-R": 0.52432,
-        "ROUGE-1": 0.250111,
-        "ROUGE-2": 0.113727,
-        "ROUGE-L": 0.218807,
-        "METEOR": 0.186679,
-        "BLEU": 0.108796
+        "BERTScore-F1": 0.562613,
+        "BERTScore-P": 0.5908,
+        "BERTScore-R": 0.551998,
+        "ROUGE-1": 0.292693,
+        "ROUGE-2": 0.160809,
+        "ROUGE-L": 0.261965,
+        "METEOR": 0.231407,
+        "BLEU": 0.163822
        },
        "rank": 1
       },
@@ -186,6 +186,23 @@
         "BLEU": 0.007339
        },
        "rank": null
+      },
+      {
+       "team": "DeshiQA",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-12T13:35:00.860427Z",
+       "scores": {
+        "BERTScore-F1": 0.448522,
+        "BERTScore-P": 0.463432,
+        "BERTScore-R": 0.443216,
+        "ROUGE-1": 0.17347,
+        "ROUGE-2": 0.03569,
+        "ROUGE-L": 0.161978,
+        "METEOR": 0.114307,
+        "BLEU": 0.017311
+       },
+       "rank": 2
       }
      ]
     },
@@ -301,6 +318,23 @@
         "BLEU": 0.009676
        },
        "rank": null
+      },
+      {
+       "team": "DeshiQA",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-12T13:35:00.860427Z",
+       "scores": {
+        "BERTScore-F1": 0.461252,
+        "BERTScore-P": 0.494913,
+        "BERTScore-R": 0.442666,
+        "ROUGE-1": 0.144892,
+        "ROUGE-2": 0.021034,
+        "ROUGE-L": 0.125677,
+        "METEOR": 0.081485,
+        "BLEU": 0.007905
+       },
+       "rank": 3
       }
      ]
     },
@@ -335,6 +369,23 @@
        "rank": 1
       },
       {
+       "team": "DeshiQA",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-12T13:35:00.860427Z",
+       "scores": {
+        "BERTScore-F1": 0.558179,
+        "BERTScore-P": 0.581824,
+        "BERTScore-R": 0.542577,
+        "ROUGE-1": 0.282568,
+        "ROUGE-2": 0.0708,
+        "ROUGE-L": 0.206988,
+        "METEOR": 0.187538,
+        "BLEU": 0.04871
+       },
+       "rank": 2
+      },
+      {
        "team": "Nowshin",
        "method": "",
        "baseline": false,
@@ -349,7 +400,7 @@
         "METEOR": 0.169929,
         "BLEU": 0.044118
        },
-       "rank": 2
+       "rank": 3
       },
       {
        "team": "BLP27_Organizers",
@@ -433,6 +484,23 @@
         "BLEU": 0.014153
        },
        "rank": null
+      },
+      {
+       "team": "DeshiQA",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-12T13:35:00.860427Z",
+       "scores": {
+        "BERTScore-F1": 0.458868,
+        "BERTScore-P": 0.475202,
+        "BERTScore-R": 0.453267,
+        "ROUGE-1": 0.171312,
+        "ROUGE-2": 0.03413,
+        "ROUGE-L": 0.160314,
+        "METEOR": 0.113656,
+        "BLEU": 0.017174
+       },
+       "rank": 3
       }
      ]
     },
@@ -499,6 +567,23 @@
         "BLEU": 0.021763
        },
        "rank": null
+      },
+      {
+       "team": "DeshiQA",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-12T13:35:00.860427Z",
+       "scores": {
+        "BERTScore-F1": 0.438317,
+        "BERTScore-P": 0.442773,
+        "BERTScore-R": 0.445023,
+        "ROUGE-1": 0.143696,
+        "ROUGE-2": 0.027772,
+        "ROUGE-L": 0.118964,
+        "METEOR": 0.097007,
+        "BLEU": 0.015006
+       },
+       "rank": 3
       }
      ]
     },
@@ -565,11 +650,28 @@
         "BLEU": 0.022428
        },
        "rank": null
+      },
+      {
+       "team": "DeshiQA",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-12T13:35:00.860427Z",
+       "scores": {
+        "BERTScore-F1": 0.479154,
+        "BERTScore-P": 0.498678,
+        "BERTScore-R": 0.470883,
+        "ROUGE-1": 0.185617,
+        "ROUGE-2": 0.038434,
+        "ROUGE-L": 0.152986,
+        "METEOR": 0.119922,
+        "BLEU": 0.022199
+       },
+       "rank": 3
       }
      ]
     }
    }
   }
  ],
- "updated": "2026-11-12T11:03:49Z"
+ "updated": "2026-11-12T18:54:22Z"
 }
