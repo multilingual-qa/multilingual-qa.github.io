@@ -384,6 +384,23 @@
      "orderBy": "BERTScore-F1",
      "entries": [
       {
+       "team": "Prometheus",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-12T09:26:31.168897Z",
+       "scores": {
+        "BERTScore-F1": 0.528689,
+        "BERTScore-P": 0.557498,
+        "BERTScore-R": 0.514051,
+        "ROUGE-1": 0.235171,
+        "ROUGE-2": 0.069455,
+        "ROUGE-L": 0.211168,
+        "METEOR": 0.163993,
+        "BLEU": 0.033276
+       },
+       "rank": 1
+      },
+      {
        "team": "Nowshin",
        "method": "",
        "baseline": false,
@@ -398,7 +415,7 @@
         "METEOR": 0.152391,
         "BLEU": 0.014153
        },
-       "rank": 1
+       "rank": 2
       },
       {
        "team": "BLP27_Organizers",
@@ -416,23 +433,6 @@
         "BLEU": 0.014153
        },
        "rank": null
-      },
-      {
-       "team": "Prometheus",
-       "method": "",
-       "baseline": false,
-       "submittedAt": "2026-11-10T16:02:55.260234Z",
-       "scores": {
-        "BERTScore-F1": 0.474242,
-        "BERTScore-P": 0.477644,
-        "BERTScore-R": 0.479115,
-        "ROUGE-1": 0.169065,
-        "ROUGE-2": 0.02658,
-        "ROUGE-L": 0.148648,
-        "METEOR": 0.1128,
-        "BLEU": 0.019455
-       },
-       "rank": 2
       }
      ]
     },
@@ -453,16 +453,16 @@
        "team": "Prometheus",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-10T16:02:55.260234Z",
+       "submittedAt": "2026-11-12T09:26:31.168897Z",
        "scores": {
-        "BERTScore-F1": 0.488745,
-        "BERTScore-P": 0.479153,
-        "BERTScore-R": 0.517057,
-        "ROUGE-1": 0.231243,
-        "ROUGE-2": 0.100809,
-        "ROUGE-L": 0.196047,
-        "METEOR": 0.195432,
-        "BLEU": 0.107112
+        "BERTScore-F1": 0.511512,
+        "BERTScore-P": 0.533889,
+        "BERTScore-R": 0.505733,
+        "ROUGE-1": 0.221996,
+        "ROUGE-2": 0.067121,
+        "ROUGE-L": 0.190316,
+        "METEOR": 0.156155,
+        "BLEU": 0.039204
        },
        "rank": 1
       },
@@ -519,16 +519,16 @@
        "team": "Prometheus",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-10T16:02:55.260234Z",
+       "submittedAt": "2026-11-12T09:26:31.168897Z",
        "scores": {
-        "BERTScore-F1": 0.53058,
-        "BERTScore-P": 0.537613,
-        "BERTScore-R": 0.536112,
-        "ROUGE-1": 0.269053,
-        "ROUGE-2": 0.129625,
-        "ROUGE-L": 0.233057,
-        "METEOR": 0.21459,
-        "BLEU": 0.135245
+        "BERTScore-F1": 0.532117,
+        "BERTScore-P": 0.572414,
+        "BERTScore-R": 0.508939,
+        "ROUGE-1": 0.242775,
+        "ROUGE-2": 0.068649,
+        "ROUGE-L": 0.202835,
+        "METEOR": 0.157197,
+        "BLEU": 0.034857
        },
        "rank": 1
       },
@@ -571,5 +571,5 @@
    }
   }
  ],
- "updated": "2026-11-11T14:26:29Z"
+ "updated": "2026-11-12T11:03:49Z"
 }
