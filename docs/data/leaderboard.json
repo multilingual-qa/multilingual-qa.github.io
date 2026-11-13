@@ -286,6 +286,23 @@
        "rank": 1
       },
       {
+       "team": "DeshiQA",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-13T21:33:48.347577Z",
+       "scores": {
+        "BERTScore-F1": 0.509347,
+        "BERTScore-P": 0.584428,
+        "BERTScore-R": 0.462726,
+        "ROUGE-1": 0.190114,
+        "ROUGE-2": 0.045981,
+        "ROUGE-L": 0.164896,
+        "METEOR": 0.104924,
+        "BLEU": 0.013478
+       },
+       "rank": 2
+      },
+      {
        "team": "Nowshin",
        "method": "",
        "baseline": false,
@@ -300,7 +317,7 @@
         "METEOR": 0.107637,
         "BLEU": 0.009676
        },
-       "rank": 2
+       "rank": 3
       },
       {
        "team": "BLP27_Organizers",
@@ -318,23 +335,6 @@
         "BLEU": 0.009676
        },
        "rank": null
-      },
-      {
-       "team": "DeshiQA",
-       "method": "",
-       "baseline": false,
-       "submittedAt": "2026-11-12T13:35:00.860427Z",
-       "scores": {
-        "BERTScore-F1": 0.461252,
-        "BERTScore-P": 0.494913,
-        "BERTScore-R": 0.442666,
-        "ROUGE-1": 0.144892,
-        "ROUGE-2": 0.021034,
-        "ROUGE-L": 0.125677,
-        "METEOR": 0.081485,
-        "BLEU": 0.007905
-       },
-       "rank": 3
       }
      ]
     },
@@ -489,16 +489,16 @@
        "team": "DeshiQA",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-12T13:35:00.860427Z",
+       "submittedAt": "2026-11-13T21:33:48.347577Z",
        "scores": {
-        "BERTScore-F1": 0.458868,
-        "BERTScore-P": 0.475202,
-        "BERTScore-R": 0.453267,
-        "ROUGE-1": 0.171312,
-        "ROUGE-2": 0.03413,
-        "ROUGE-L": 0.160314,
-        "METEOR": 0.113656,
-        "BLEU": 0.017174
+        "BERTScore-F1": 0.518914,
+        "BERTScore-P": 0.559841,
+        "BERTScore-R": 0.494417,
+        "ROUGE-1": 0.226239,
+        "ROUGE-2": 0.056097,
+        "ROUGE-L": 0.208318,
+        "METEOR": 0.145912,
+        "BLEU": 0.021864
        },
        "rank": 3
       }
@@ -535,6 +535,23 @@
        "rank": 1
       },
       {
+       "team": "DeshiQA",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-13T21:33:48.347577Z",
+       "scores": {
+        "BERTScore-F1": 0.510495,
+        "BERTScore-P": 0.541774,
+        "BERTScore-R": 0.496078,
+        "ROUGE-1": 0.210733,
+        "ROUGE-2": 0.059829,
+        "ROUGE-L": 0.181483,
+        "METEOR": 0.140068,
+        "BLEU": 0.025914
+       },
+       "rank": 2
+      },
+      {
        "team": "Nowshin",
        "method": "",
        "baseline": false,
@@ -549,7 +566,7 @@
         "METEOR": 0.118938,
         "BLEU": 0.021763
        },
-       "rank": 2
+       "rank": 3
       },
       {
        "team": "BLP27_Organizers",
@@ -567,23 +584,6 @@
         "BLEU": 0.021763
        },
        "rank": null
-      },
-      {
-       "team": "DeshiQA",
-       "method": "",
-       "baseline": false,
-       "submittedAt": "2026-11-12T13:35:00.860427Z",
-       "scores": {
-        "BERTScore-F1": 0.438317,
-        "BERTScore-P": 0.442773,
-        "BERTScore-R": 0.445023,
-        "ROUGE-1": 0.143696,
-        "ROUGE-2": 0.027772,
-        "ROUGE-L": 0.118964,
-        "METEOR": 0.097007,
-        "BLEU": 0.015006
-       },
-       "rank": 3
       }
      ]
     },
@@ -618,6 +618,23 @@
        "rank": 1
       },
       {
+       "team": "DeshiQA",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-13T21:33:48.347577Z",
+       "scores": {
+        "BERTScore-F1": 0.523424,
+        "BERTScore-P": 0.573005,
+        "BERTScore-R": 0.493262,
+        "ROUGE-1": 0.223203,
+        "ROUGE-2": 0.057714,
+        "ROUGE-L": 0.189051,
+        "METEOR": 0.137752,
+        "BLEU": 0.023564
+       },
+       "rank": 2
+      },
+      {
        "team": "Nowshin",
        "method": "",
        "baseline": false,
@@ -632,7 +649,7 @@
         "METEOR": 0.137224,
         "BLEU": 0.022428
        },
-       "rank": 2
+       "rank": 3
       },
       {
        "team": "BLP27_Organizers",
@@ -650,28 +667,11 @@
         "BLEU": 0.022428
        },
        "rank": null
-      },
-      {
-       "team": "DeshiQA",
-       "method": "",
-       "baseline": false,
-       "submittedAt": "2026-11-12T13:35:00.860427Z",
-       "scores": {
-        "BERTScore-F1": 0.479154,
-        "BERTScore-P": 0.498678,
-        "BERTScore-R": 0.470883,
-        "ROUGE-1": 0.185617,
-        "ROUGE-2": 0.038434,
-        "ROUGE-L": 0.152986,
-        "METEOR": 0.119922,
-        "BLEU": 0.022199
-       },
-       "rank": 3
       }
      ]
     }
    }
   }
  ],
- "updated": "2026-11-12T18:54:22Z"
+ "updated": "2026-11-13T22:36:32Z"
 }
