@@ -22,6 +22,23 @@
      "orderBy": "BERTScore-F1",
      "entries": [
       {
+       "team": "Court of the Crimson King",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-14T20:18:31.475507Z",
+       "scores": {
+        "BERTScore-F1": 0.568971,
+        "BERTScore-P": 0.572949,
+        "BERTScore-R": 0.577487,
+        "ROUGE-1": 0.311602,
+        "ROUGE-2": 0.178434,
+        "ROUGE-L": 0.275582,
+        "METEOR": 0.260787,
+        "BLEU": 0.181395
+       },
+       "rank": 1
+      },
+      {
        "team": "Open Weight Human",
        "method": "",
        "baseline": false,
@@ -36,7 +53,7 @@
         "METEOR": 0.231407,
         "BLEU": 0.163822
        },
-       "rank": 1
+       "rank": 2
       },
       {
        "team": "Nowshin",
@@ -53,7 +70,7 @@
         "METEOR": 0.104588,
         "BLEU": 0.009665
        },
-       "rank": 2
+       "rank": 3
       },
       {
        "team": "BLP27_Organizers",
@@ -87,7 +104,7 @@
         "METEOR": 0.10459,
         "BLEU": 0.01191
        },
-       "rank": 3
+       "rank": 4
       }
      ]
     },
@@ -673,5 +690,5 @@
    }
   }
  ],
- "updated": "2026-11-13T22:36:32Z"
+ "updated": "2026-11-14T21:28:29Z"
 }
