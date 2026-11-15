@@ -25,16 +25,16 @@
        "team": "Court of the Crimson King",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-14T20:18:31.475507Z",
+       "submittedAt": "2026-11-15T18:36:20.354466Z",
        "scores": {
-        "BERTScore-F1": 0.568971,
-        "BERTScore-P": 0.572949,
-        "BERTScore-R": 0.577487,
-        "ROUGE-1": 0.311602,
-        "ROUGE-2": 0.178434,
-        "ROUGE-L": 0.275582,
-        "METEOR": 0.260787,
-        "BLEU": 0.181395
+        "BERTScore-F1": 0.570541,
+        "BERTScore-P": 0.574996,
+        "BERTScore-R": 0.577843,
+        "ROUGE-1": 0.314308,
+        "ROUGE-2": 0.178814,
+        "ROUGE-L": 0.277948,
+        "METEOR": 0.261068,
+        "BLEU": 0.189323
        },
        "rank": 1
       },
@@ -690,5 +690,5 @@
    }
   }
  ],
- "updated": "2026-11-14T21:28:29Z"
+ "updated": "2026-11-15T21:47:12Z"
 }
