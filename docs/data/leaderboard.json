@@ -56,6 +56,23 @@
        "rank": 2
       },
       {
+       "team": "IUBAT-RaRa",
+       "method": "Qwen2.5-1.5B RAG few-shot",
+       "baseline": false,
+       "submittedAt": "2026-11-19T19:05:32.865706Z",
+       "scores": {
+        "BERTScore-F1": 0.514306,
+        "BERTScore-P": 0.566736,
+        "BERTScore-R": 0.480777,
+        "ROUGE-1": 0.221654,
+        "ROUGE-2": 0.082654,
+        "ROUGE-L": 0.195973,
+        "METEOR": 0.139365,
+        "BLEU": 0.043671
+       },
+       "rank": 3
+      },
+      {
        "team": "Nowshin",
        "method": "",
        "baseline": false,
@@ -70,7 +87,7 @@
         "METEOR": 0.104588,
         "BLEU": 0.009665
        },
-       "rank": 3
+       "rank": 4
       },
       {
        "team": "BLP27_Organizers",
@@ -104,7 +121,7 @@
         "METEOR": 0.10459,
         "BLEU": 0.01191
        },
-       "rank": 4
+       "rank": 5
       }
      ]
     },
@@ -690,5 +707,5 @@
    }
   }
  ],
- "updated": "2026-11-15T21:47:12Z"
+ "updated": "2026-11-19T21:30:39Z"
 }
