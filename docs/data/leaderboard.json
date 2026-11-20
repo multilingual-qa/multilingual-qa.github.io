@@ -57,7 +57,7 @@
       },
       {
        "team": "IUBAT-RaRa",
-       "method": "Qwen2.5-1.5B RAG few-shot",
+       "method": "run-1",
        "baseline": false,
        "submittedAt": "2026-11-19T19:05:32.865706Z",
        "scores": {
@@ -707,5 +707,5 @@
    }
   }
  ],
- "updated": "2026-11-19T21:30:39Z"
+ "updated": "2026-11-20T03:12:13Z"
 }
