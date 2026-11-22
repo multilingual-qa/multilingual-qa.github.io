@@ -90,6 +90,23 @@
        "rank": null
       },
       {
+       "team": "LinguaMind AI",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-22T02:58:27.567585Z",
+       "scores": {
+        "BERTScore-F1": 0.498864,
+        "BERTScore-P": 0.570225,
+        "BERTScore-R": 0.454189,
+        "ROUGE-1": 0.181177,
+        "ROUGE-2": 0.046141,
+        "ROUGE-L": 0.16258,
+        "METEOR": 0.101928,
+        "BLEU": 0.015394
+       },
+       "rank": 4
+      },
+      {
        "team": "UpsideDown",
        "method": "",
        "baseline": false,
@@ -103,23 +120,6 @@
         "ROUGE-L": 0.155801,
         "METEOR": 0.10459,
         "BLEU": 0.01191
-       },
-       "rank": 4
-      },
-      {
-       "team": "LinguaMind AI",
-       "method": "Qwen2.5-7B-Instruct QLoRA",
-       "baseline": false,
-       "submittedAt": "2026-11-20T15:42:08.176249Z",
-       "scores": {
-        "BERTScore-F1": 0.488404,
-        "BERTScore-P": 0.559397,
-        "BERTScore-R": 0.444502,
-        "ROUGE-1": 0.167383,
-        "ROUGE-2": 0.038781,
-        "ROUGE-L": 0.149361,
-        "METEOR": 0.091839,
-        "BLEU": 0.012331
        },
        "rank": 5
       }
@@ -140,18 +140,18 @@
      "entries": [
       {
        "team": "LinguaMind AI",
-       "method": "Qwen2.5-7B-Instruct QLoRA",
+       "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-20T15:42:08.176249Z",
+       "submittedAt": "2026-11-22T02:58:27.567585Z",
        "scores": {
-        "BERTScore-F1": 0.57432,
-        "BERTScore-P": 0.626087,
-        "BERTScore-R": 0.537782,
-        "ROUGE-1": 0.306421,
-        "ROUGE-2": 0.099787,
-        "ROUGE-L": 0.237526,
-        "METEOR": 0.192295,
-        "BLEU": 0.061653
+        "BERTScore-F1": 0.579966,
+        "BERTScore-P": 0.620767,
+        "BERTScore-R": 0.551326,
+        "ROUGE-1": 0.321161,
+        "ROUGE-2": 0.110598,
+        "ROUGE-L": 0.247012,
+        "METEOR": 0.21015,
+        "BLEU": 0.078602
        },
        "rank": 1
       },
@@ -189,18 +189,18 @@
      "entries": [
       {
        "team": "LinguaMind AI",
-       "method": "Qwen2.5-7B-Instruct QLoRA",
+       "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-20T15:42:08.176249Z",
+       "submittedAt": "2026-11-22T02:58:27.567585Z",
        "scores": {
-        "BERTScore-F1": 0.51025,
-        "BERTScore-P": 0.553519,
-        "BERTScore-R": 0.485392,
-        "ROUGE-1": 0.216878,
-        "ROUGE-2": 0.065101,
-        "ROUGE-L": 0.202846,
-        "METEOR": 0.145926,
-        "BLEU": 0.023399
+        "BERTScore-F1": 0.521788,
+        "BERTScore-P": 0.569282,
+        "BERTScore-R": 0.493677,
+        "ROUGE-1": 0.220348,
+        "ROUGE-2": 0.072099,
+        "ROUGE-L": 0.207338,
+        "METEOR": 0.153493,
+        "BLEU": 0.026693
        },
        "rank": 1
       },
@@ -255,18 +255,18 @@
      "entries": [
       {
        "team": "LinguaMind AI",
-       "method": "Qwen2.5-7B-Instruct QLoRA",
+       "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-20T15:42:08.176249Z",
+       "submittedAt": "2026-11-22T02:58:27.567585Z",
        "scores": {
-        "BERTScore-F1": 0.485949,
-        "BERTScore-P": 0.51335,
-        "BERTScore-R": 0.47334,
-        "ROUGE-1": 0.178253,
-        "ROUGE-2": 0.049042,
-        "ROUGE-L": 0.158671,
-        "METEOR": 0.119068,
-        "BLEU": 0.021986
+        "BERTScore-F1": 0.486864,
+        "BERTScore-P": 0.509815,
+        "BERTScore-R": 0.478636,
+        "ROUGE-1": 0.184104,
+        "ROUGE-2": 0.055577,
+        "ROUGE-L": 0.163763,
+        "METEOR": 0.130856,
+        "BLEU": 0.027143
        },
        "rank": 1
       },
@@ -355,18 +355,18 @@
       },
       {
        "team": "LinguaMind AI",
-       "method": "Qwen2.5-7B-Instruct QLoRA",
+       "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-20T15:42:08.176249Z",
+       "submittedAt": "2026-11-22T02:58:27.567585Z",
        "scores": {
-        "BERTScore-F1": 0.478085,
-        "BERTScore-P": 0.533264,
-        "BERTScore-R": 0.444041,
-        "ROUGE-1": 0.162573,
-        "ROUGE-2": 0.03633,
-        "ROUGE-L": 0.146084,
-        "METEOR": 0.093053,
-        "BLEU": 0.01243
+        "BERTScore-F1": 0.492808,
+        "BERTScore-P": 0.548725,
+        "BERTScore-R": 0.457398,
+        "ROUGE-1": 0.178371,
+        "ROUGE-2": 0.044164,
+        "ROUGE-L": 0.160754,
+        "METEOR": 0.106131,
+        "BLEU": 0.016203
        },
        "rank": 3
       }
@@ -404,18 +404,18 @@
       },
       {
        "team": "LinguaMind AI",
-       "method": "Qwen2.5-7B-Instruct QLoRA",
+       "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-20T15:42:08.176249Z",
+       "submittedAt": "2026-11-22T02:58:27.567585Z",
        "scores": {
-        "BERTScore-F1": 0.571846,
-        "BERTScore-P": 0.630141,
-        "BERTScore-R": 0.530176,
-        "ROUGE-1": 0.298441,
-        "ROUGE-2": 0.08973,
-        "ROUGE-L": 0.230326,
-        "METEOR": 0.18119,
-        "BLEU": 0.047148
+        "BERTScore-F1": 0.57951,
+        "BERTScore-P": 0.619628,
+        "BERTScore-R": 0.551801,
+        "ROUGE-1": 0.320342,
+        "ROUGE-2": 0.109254,
+        "ROUGE-L": 0.246238,
+        "METEOR": 0.213289,
+        "BLEU": 0.081598
        },
        "rank": 2
       },
@@ -521,18 +521,18 @@
       },
       {
        "team": "LinguaMind AI",
-       "method": "Qwen2.5-7B-Instruct QLoRA",
+       "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-20T15:42:08.176249Z",
+       "submittedAt": "2026-11-22T02:58:27.567585Z",
        "scores": {
-        "BERTScore-F1": 0.484423,
-        "BERTScore-P": 0.523769,
-        "BERTScore-R": 0.461451,
-        "ROUGE-1": 0.185328,
-        "ROUGE-2": 0.052165,
-        "ROUGE-L": 0.173804,
-        "METEOR": 0.122958,
-        "BLEU": 0.022025
+        "BERTScore-F1": 0.516718,
+        "BERTScore-P": 0.561551,
+        "BERTScore-R": 0.489974,
+        "ROUGE-1": 0.21454,
+        "ROUGE-2": 0.069432,
+        "ROUGE-L": 0.202061,
+        "METEOR": 0.155194,
+        "BLEU": 0.028004
        },
        "rank": 3
       }
@@ -587,18 +587,18 @@
       },
       {
        "team": "LinguaMind AI",
-       "method": "Qwen2.5-7B-Instruct QLoRA",
+       "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-20T15:42:08.176249Z",
+       "submittedAt": "2026-11-22T02:58:27.567585Z",
        "scores": {
-        "BERTScore-F1": 0.47385,
-        "BERTScore-P": 0.491732,
-        "BERTScore-R": 0.469759,
-        "ROUGE-1": 0.162802,
-        "ROUGE-2": 0.039627,
-        "ROUGE-L": 0.14432,
-        "METEOR": 0.112603,
-        "BLEU": 0.01973
+        "BERTScore-F1": 0.475758,
+        "BERTScore-P": 0.490176,
+        "BERTScore-R": 0.475506,
+        "ROUGE-1": 0.178249,
+        "ROUGE-2": 0.049506,
+        "ROUGE-L": 0.157539,
+        "METEOR": 0.132981,
+        "BLEU": 0.023403
        },
        "rank": 3
       },
@@ -669,6 +669,23 @@
        "rank": 2
       },
       {
+       "team": "LinguaMind AI",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-22T02:58:27.567585Z",
+       "scores": {
+        "BERTScore-F1": 0.516199,
+        "BERTScore-P": 0.55502,
+        "BERTScore-R": 0.49367,
+        "ROUGE-1": 0.222875,
+        "ROUGE-2": 0.068089,
+        "ROUGE-L": 0.191648,
+        "METEOR": 0.151898,
+        "BLEU": 0.037302
+       },
+       "rank": 3
+      },
+      {
        "team": "BLP27_Organizers",
        "method": "Baseline",
        "baseline": true,
@@ -684,28 +701,11 @@
         "BLEU": 0.022428
        },
        "rank": null
-      },
-      {
-       "team": "LinguaMind AI",
-       "method": "Qwen2.5-7B-Instruct QLoRA",
-       "baseline": false,
-       "submittedAt": "2026-11-20T15:42:08.176249Z",
-       "scores": {
-        "BERTScore-F1": 0.502051,
-        "BERTScore-P": 0.544726,
-        "BERTScore-R": 0.476357,
-        "ROUGE-1": 0.202286,
-        "ROUGE-2": 0.054463,
-        "ROUGE-L": 0.173633,
-        "METEOR": 0.127451,
-        "BLEU": 0.025333
-       },
-       "rank": 3
       }
      ]
     }
    }
   }
  ],
- "updated": "2026-11-20T20:14:56Z"
+ "updated": "2026-11-22T11:20:50Z"
 }
