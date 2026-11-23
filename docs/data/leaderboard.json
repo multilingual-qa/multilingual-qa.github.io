@@ -110,16 +110,16 @@
        "team": "LinguaMind AI",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-22T02:58:27.567585Z",
+       "submittedAt": "2026-11-23T05:19:30.507500Z",
        "scores": {
-        "BERTScore-F1": 0.498864,
-        "BERTScore-P": 0.570225,
-        "BERTScore-R": 0.454189,
-        "ROUGE-1": 0.181177,
-        "ROUGE-2": 0.046141,
-        "ROUGE-L": 0.16258,
-        "METEOR": 0.101928,
-        "BLEU": 0.015394
+        "BERTScore-F1": 0.502957,
+        "BERTScore-P": 0.562147,
+        "BERTScore-R": 0.466247,
+        "ROUGE-1": 0.190236,
+        "ROUGE-2": 0.050938,
+        "ROUGE-L": 0.16854,
+        "METEOR": 0.112932,
+        "BLEU": 0.019926
        },
        "rank": 5
       },
@@ -176,7 +176,7 @@
        "team": "LinguaMind AI",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-22T02:58:27.567585Z",
+       "submittedAt": "2026-11-23T05:19:30.507500Z",
        "scores": {
         "BERTScore-F1": 0.579966,
         "BERTScore-P": 0.620767,
@@ -242,7 +242,7 @@
        "team": "LinguaMind AI",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-22T02:58:27.567585Z",
+       "submittedAt": "2026-11-23T05:19:30.507500Z",
        "scores": {
         "BERTScore-F1": 0.521788,
         "BERTScore-P": 0.569282,
@@ -325,7 +325,7 @@
        "team": "LinguaMind AI",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-22T02:58:27.567585Z",
+       "submittedAt": "2026-11-23T05:19:30.507500Z",
        "scores": {
         "BERTScore-F1": 0.486864,
         "BERTScore-P": 0.509815,
@@ -425,16 +425,16 @@
        "team": "LinguaMind AI",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-22T02:58:27.567585Z",
+       "submittedAt": "2026-11-23T05:19:30.507500Z",
        "scores": {
-        "BERTScore-F1": 0.492808,
-        "BERTScore-P": 0.548725,
-        "BERTScore-R": 0.457398,
-        "ROUGE-1": 0.178371,
-        "ROUGE-2": 0.044164,
-        "ROUGE-L": 0.160754,
-        "METEOR": 0.106131,
-        "BLEU": 0.016203
+        "BERTScore-F1": 0.500139,
+        "BERTScore-P": 0.545443,
+        "BERTScore-R": 0.472186,
+        "ROUGE-1": 0.189524,
+        "ROUGE-2": 0.047708,
+        "ROUGE-L": 0.167433,
+        "METEOR": 0.117286,
+        "BLEU": 0.02044
        },
        "rank": 3
       }
@@ -474,16 +474,16 @@
        "team": "LinguaMind AI",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-22T02:58:27.567585Z",
+       "submittedAt": "2026-11-23T05:19:30.507500Z",
        "scores": {
-        "BERTScore-F1": 0.57951,
-        "BERTScore-P": 0.619628,
-        "BERTScore-R": 0.551801,
-        "ROUGE-1": 0.320342,
-        "ROUGE-2": 0.109254,
-        "ROUGE-L": 0.246238,
-        "METEOR": 0.213289,
-        "BLEU": 0.081598
+        "BERTScore-F1": 0.586922,
+        "BERTScore-P": 0.620358,
+        "BERTScore-R": 0.564089,
+        "ROUGE-1": 0.33575,
+        "ROUGE-2": 0.124834,
+        "ROUGE-L": 0.25951,
+        "METEOR": 0.230058,
+        "BLEU": 0.101423
        },
        "rank": 2
       },
@@ -537,6 +537,23 @@
      "orderBy": "BERTScore-F1",
      "entries": [
       {
+       "team": "LinguaMind AI",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T05:19:30.507500Z",
+       "scores": {
+        "BERTScore-F1": 0.534569,
+        "BERTScore-P": 0.56629,
+        "BERTScore-R": 0.517459,
+        "ROUGE-1": 0.236587,
+        "ROUGE-2": 0.073761,
+        "ROUGE-L": 0.217287,
+        "METEOR": 0.173056,
+        "BLEU": 0.033693
+       },
+       "rank": 1
+      },
+      {
        "team": "Prometheus",
        "method": "",
        "baseline": false,
@@ -551,7 +568,7 @@
         "METEOR": 0.163993,
         "BLEU": 0.033276
        },
-       "rank": 1
+       "rank": 2
       },
       {
        "team": "BLP27_Organizers",
@@ -584,23 +601,6 @@
         "ROUGE-L": 0.208318,
         "METEOR": 0.145912,
         "BLEU": 0.021864
-       },
-       "rank": 2
-      },
-      {
-       "team": "LinguaMind AI",
-       "method": "",
-       "baseline": false,
-       "submittedAt": "2026-11-22T02:58:27.567585Z",
-       "scores": {
-        "BERTScore-F1": 0.516718,
-        "BERTScore-P": 0.561551,
-        "BERTScore-R": 0.489974,
-        "ROUGE-1": 0.21454,
-        "ROUGE-2": 0.069432,
-        "ROUGE-L": 0.202061,
-        "METEOR": 0.155194,
-        "BLEU": 0.028004
        },
        "rank": 3
       }
@@ -657,16 +657,16 @@
        "team": "LinguaMind AI",
        "method": "",
        "baseline": false,
-       "submittedAt": "2026-11-22T02:58:27.567585Z",
+       "submittedAt": "2026-11-23T05:19:30.507500Z",
        "scores": {
-        "BERTScore-F1": 0.475758,
-        "BERTScore-P": 0.490176,
-        "BERTScore-R": 0.475506,
-        "ROUGE-1": 0.178249,
-        "ROUGE-2": 0.049506,
-        "ROUGE-L": 0.157539,
-        "METEOR": 0.132981,
-        "BLEU": 0.023403
+        "BERTScore-F1": 0.478661,
+        "BERTScore-P": 0.493,
+        "BERTScore-R": 0.479122,
+        "ROUGE-1": 0.184818,
+        "ROUGE-2": 0.052774,
+        "ROUGE-L": 0.161147,
+        "METEOR": 0.137288,
+        "BLEU": 0.024845
        },
        "rank": 3
       },
@@ -720,6 +720,23 @@
        "rank": 1
       },
       {
+       "team": "LinguaMind AI",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T05:19:30.507500Z",
+       "scores": {
+        "BERTScore-F1": 0.525073,
+        "BERTScore-P": 0.556273,
+        "BERTScore-R": 0.508214,
+        "ROUGE-1": 0.23667,
+        "ROUGE-2": 0.074769,
+        "ROUGE-L": 0.201344,
+        "METEOR": 0.164422,
+        "BLEU": 0.0451
+       },
+       "rank": 2
+      },
+      {
        "team": "DeshiQA",
        "method": "",
        "baseline": false,
@@ -733,23 +750,6 @@
         "ROUGE-L": 0.189051,
         "METEOR": 0.137752,
         "BLEU": 0.023564
-       },
-       "rank": 2
-      },
-      {
-       "team": "LinguaMind AI",
-       "method": "",
-       "baseline": false,
-       "submittedAt": "2026-11-22T02:58:27.567585Z",
-       "scores": {
-        "BERTScore-F1": 0.516199,
-        "BERTScore-P": 0.55502,
-        "BERTScore-R": 0.49367,
-        "ROUGE-1": 0.222875,
-        "ROUGE-2": 0.068089,
-        "ROUGE-L": 0.191648,
-        "METEOR": 0.151898,
-        "BLEU": 0.037302
        },
        "rank": 3
       },
@@ -775,5 +775,5 @@
    }
   }
  ],
- "updated": "2026-11-23T00:50:52Z"
+ "updated": "2026-11-23T09:01:34Z"
 }
