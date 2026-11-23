@@ -56,6 +56,23 @@
        "rank": 2
       },
       {
+       "team": "BanglaBridge",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T16:58:33.840094Z",
+       "scores": {
+        "BERTScore-F1": 0.561373,
+        "BERTScore-P": 0.595364,
+        "BERTScore-R": 0.544929,
+        "ROUGE-1": 0.289241,
+        "ROUGE-2": 0.149202,
+        "ROUGE-L": 0.25943,
+        "METEOR": 0.220026,
+        "BLEU": 0.134412
+       },
+       "rank": 3
+      },
+      {
        "team": "Team_ss",
        "method": "",
        "baseline": false,
@@ -70,7 +87,7 @@
         "METEOR": 0.127453,
         "BLEU": 0.031932
        },
-       "rank": 3
+       "rank": 4
       },
       {
        "team": "IUBAT-RaRa",
@@ -87,7 +104,7 @@
         "METEOR": 0.139365,
         "BLEU": 0.043671
        },
-       "rank": 4
+       "rank": 5
       },
       {
        "team": "BLP27_Organizers",
@@ -107,6 +124,23 @@
        "rank": null
       },
       {
+       "team": "StrongBow",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T19:31:13.345413Z",
+       "scores": {
+        "BERTScore-F1": 0.504696,
+        "BERTScore-P": 0.581888,
+        "BERTScore-R": 0.453798,
+        "ROUGE-1": 0.192046,
+        "ROUGE-2": 0.045309,
+        "ROUGE-L": 0.172162,
+        "METEOR": 0.102516,
+        "BLEU": 0.008157
+       },
+       "rank": 6
+      },
+      {
        "team": "LinguaMind AI",
        "method": "",
        "baseline": false,
@@ -121,7 +155,7 @@
         "METEOR": 0.112932,
         "BLEU": 0.019926
        },
-       "rank": 5
+       "rank": 7
       },
       {
        "team": "UpsideDown",
@@ -138,7 +172,7 @@
         "METEOR": 0.10459,
         "BLEU": 0.01191
        },
-       "rank": 6
+       "rank": 8
       }
      ]
     },
@@ -205,6 +239,23 @@
         "BLEU": 0.044295
        },
        "rank": null
+      },
+      {
+       "team": "StrongBow",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T19:31:13.345413Z",
+       "scores": {
+        "BERTScore-F1": 0.546593,
+        "BERTScore-P": 0.590397,
+        "BERTScore-R": 0.513372,
+        "ROUGE-1": 0.286339,
+        "ROUGE-2": 0.076044,
+        "ROUGE-L": 0.219478,
+        "METEOR": 0.168484,
+        "BLEU": 0.042241
+       },
+       "rank": 3
       }
      ]
     },
@@ -256,6 +307,23 @@
        "rank": 2
       },
       {
+       "team": "StrongBow",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T19:31:13.345413Z",
+       "scores": {
+        "BERTScore-F1": 0.502168,
+        "BERTScore-P": 0.580999,
+        "BERTScore-R": 0.45089,
+        "ROUGE-1": 0.242523,
+        "ROUGE-2": 0.072175,
+        "ROUGE-L": 0.225521,
+        "METEOR": 0.142029,
+        "BLEU": 0.007444
+       },
+       "rank": 3
+      },
+      {
        "team": "BLP27_Organizers",
        "method": "Baseline",
        "baseline": true,
@@ -287,7 +355,7 @@
         "METEOR": 0.114307,
         "BLEU": 0.017311
        },
-       "rank": 3
+       "rank": 4
       }
      ]
     },
@@ -354,6 +422,23 @@
         "BLEU": 0.02203
        },
        "rank": null
+      },
+      {
+       "team": "StrongBow",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T19:31:13.345413Z",
+       "scores": {
+        "BERTScore-F1": 0.470453,
+        "BERTScore-P": 0.495495,
+        "BERTScore-R": 0.459305,
+        "ROUGE-1": 0.182659,
+        "ROUGE-2": 0.050121,
+        "ROUGE-L": 0.15447,
+        "METEOR": 0.118087,
+        "BLEU": 0.021407
+       },
+       "rank": 3
       }
      ]
     },
@@ -388,6 +473,23 @@
        "rank": 1
       },
       {
+       "team": "StrongBow",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T19:31:13.345413Z",
+       "scores": {
+        "BERTScore-F1": 0.518893,
+        "BERTScore-P": 0.589001,
+        "BERTScore-R": 0.47399,
+        "ROUGE-1": 0.21599,
+        "ROUGE-2": 0.067978,
+        "ROUGE-L": 0.192472,
+        "METEOR": 0.128596,
+        "BLEU": 0.031755
+       },
+       "rank": 2
+      },
+      {
        "team": "DeshiQA",
        "method": "",
        "baseline": false,
@@ -402,7 +504,7 @@
         "METEOR": 0.104924,
         "BLEU": 0.013478
        },
-       "rank": 2
+       "rank": 3
       },
       {
        "team": "BLP27_Organizers",
@@ -436,7 +538,7 @@
         "METEOR": 0.117286,
         "BLEU": 0.02044
        },
-       "rank": 3
+       "rank": 4
       }
      ]
     },
@@ -488,6 +590,23 @@
        "rank": 2
       },
       {
+       "team": "StrongBow",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T19:31:13.345413Z",
+       "scores": {
+        "BERTScore-F1": 0.561734,
+        "BERTScore-P": 0.605151,
+        "BERTScore-R": 0.529279,
+        "ROUGE-1": 0.307259,
+        "ROUGE-2": 0.103341,
+        "ROUGE-L": 0.24176,
+        "METEOR": 0.192295,
+        "BLEU": 0.073741
+       },
+       "rank": 3
+      },
+      {
        "team": "DeshiQA",
        "method": "",
        "baseline": false,
@@ -502,7 +621,7 @@
         "METEOR": 0.187538,
         "BLEU": 0.04871
        },
-       "rank": 3
+       "rank": 4
       },
       {
        "team": "BLP27_Organizers",
@@ -571,6 +690,23 @@
        "rank": 2
       },
       {
+       "team": "StrongBow",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T19:31:13.345413Z",
+       "scores": {
+        "BERTScore-F1": 0.528028,
+        "BERTScore-P": 0.587478,
+        "BERTScore-R": 0.490094,
+        "ROUGE-1": 0.244191,
+        "ROUGE-2": 0.068005,
+        "ROUGE-L": 0.228745,
+        "METEOR": 0.152095,
+        "BLEU": 0.016296
+       },
+       "rank": 3
+      },
+      {
        "team": "BLP27_Organizers",
        "method": "Baseline",
        "baseline": true,
@@ -602,7 +738,7 @@
         "METEOR": 0.145912,
         "BLEU": 0.021864
        },
-       "rank": 3
+       "rank": 4
       }
      ]
     },
@@ -669,6 +805,23 @@
         "BLEU": 0.024845
        },
        "rank": 3
+      },
+      {
+       "team": "StrongBow",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T19:31:13.345413Z",
+       "scores": {
+        "BERTScore-F1": 0.476983,
+        "BERTScore-P": 0.498299,
+        "BERTScore-R": 0.471112,
+        "ROUGE-1": 0.191435,
+        "ROUGE-2": 0.057383,
+        "ROUGE-L": 0.162864,
+        "METEOR": 0.129647,
+        "BLEU": 0.040768
+       },
+       "rank": 4
       },
       {
        "team": "BLP27_Organizers",
@@ -754,6 +907,23 @@
        "rank": 3
       },
       {
+       "team": "StrongBow",
+       "method": "",
+       "baseline": false,
+       "submittedAt": "2026-11-23T19:31:13.345413Z",
+       "scores": {
+        "BERTScore-F1": 0.52141,
+        "BERTScore-P": 0.569982,
+        "BERTScore-R": 0.491119,
+        "ROUGE-1": 0.239719,
+        "ROUGE-2": 0.074177,
+        "ROUGE-L": 0.20646,
+        "METEOR": 0.150658,
+        "BLEU": 0.04064
+       },
+       "rank": 4
+      },
+      {
        "team": "BLP27_Organizers",
        "method": "Baseline",
        "baseline": true,
@@ -775,5 +945,5 @@
    }
   }
  ],
- "updated": "2026-11-23T09:01:34Z"
+ "updated": "2026-11-23T21:20:37Z"
 }
